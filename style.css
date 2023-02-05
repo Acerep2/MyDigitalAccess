@@ -1,0 +1,26 @@
+body{
+    /*CSS CODE*/font-size: 15pt;background-color: #2ae142; 
+    color:black;text-align: center;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;font-style: inherit;
+}
+
+h1 {
+ color: rgb(255, 0, 0) ;font-size: 20pt; 
+}
+h2 {
+    color: blue;font-size: 10pt;
+}
+
+p {
+    font-size: small;color:re;
+}
+.profile-img {
+    width: 30% ;
+    border-radius: 50%;  
+}
+.btn {
+    display: block;color: blue;padding: 16px;background-color:rgb(255, 174, 0) ;margin: 16px;box-shadow: 10px 10px;
+}
+a {
+    text-decoration:none ;color: black;
+}
+
